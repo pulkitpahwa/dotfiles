@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/f1r3w2lk3r/Dev/py3/zerouno_django/zerouno_django/__pycache__'
+let g:netrw_dirhist_2='/home/pulkitpahwa/hostelpro/customized'
+let g:netrw_dirhist_3='/home/pulkitpahwa/auhpro/auhpro/outpas'
+let g:netrw_dirhist_4='/home/pulkitpahwa/courseone/c3'
+let g:netrw_dirhist_5='/boot'
+let g:netrw_dirhist_6='/home/pahwa/.local'
+let g:netrw_dirhist_7='/home/pahwa/.ssh'
+let g:netrw_dirhist_8='/home/pahwa/p/f/webapp/waiting'
+let g:netrw_dirhist_9='/home/pahwa/p/f/webapp/foodies'
